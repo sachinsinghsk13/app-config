@@ -5,4 +5,4 @@ spring:
     hibernate:
       ddl-auto: update
     database-platform: org.hibernate.dialect.MySQLDialect
-  show-sql: true
+    show-sql: true
